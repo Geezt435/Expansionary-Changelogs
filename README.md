@@ -1,5 +1,103 @@
 ## Changelogs 🎁 
 
+#### (1.2.2)
+
+**New Units, Features, Abilities, and Additions!**
+
+- New Units: *Hermit, Myconid, Goblins, Enforcer, Raider, Wendigo, Forstenad, Sacrificer, Prayeth, Evicted Gallant, Soul Collector, Venturer, Mage, Cyborg, Biomaniac, Marina Seagal, ???*
+- Some factions now have filled to have 7 units!
+- *Totem* now indicates when its support is in range.
+- *Elven*'s silver sword now causes a small healing explosion to teammates whenever it hits enemies, it would deal more heals when his sword hits teammates!
+- *Druid*'s acid explosion now could also cause the turning effect, and its chance to do its stoning slime sludge effects is now **80%**.
+- *Soulforge Swordcaster* now could enter his **Last Forge** mode when he is under **20%** health, where he becomes a condensed astral form of a king-like figure which could last only for a few seconds!
+- *Foul Soul* has been pretty unstably strong for a long while now, to counter that, it has a debuff called **Hungry Debuff**, which when his health is affected whether it is healing or damage gain, *Foul Soul* would get damaged based on the **10%** HP it has.
+- *Headless Horseman* now has a new ability called **Damned Horde**, which summons a few phantom horses that give creeps to the enemies and trample them!
+- New cosmetic for *Headless Horseman*, a flying pumpkin head that follows him around, just for decoration.
+- *Snakeye*'s snake would now summon 3 little snakes upon death.
+- *Maximus* now has a new passive called **To The Max**, which each time *Maximus* shot a bullet he gains more range by **2%**! And now his bullet increased the damage based on how many it pierced, it's doubled by **100%**! The VFX Particle size is now based on the damage of bullets.
+- Added **Shield Coverant** to *Guardian*, which heals enemies and acts as a shield and served as protection and cover.
+- Added some Audio and Visual indication to some abilities.
+
+**Changes, Revamps and Bug Fixes!**
+
+- Units on the mod page no longer show their icons, only factions do it now.
+- *Titanoboa*'s health has been reduced from **450** to **200**.
+- *Succubus* lure now has a **50%** chance instead of **100%**, has an audio indication for changing team and rejection, but also decreased her speed.
+- Added more turning speed for *Wayang* so he could face enemies more often.
+- *Wayang*'s divine sun explosion is optimized and buffed and now could only hit enemies.
+- *Vulcan Imperator* now cost more, health from **1600** to **1650**, and has more explosion sound effects on his eruption.
+- *Vulcan Imperator*'s explosion now is smaller, would not spawn when in contact and only in swing, and has reduced damages overall.
+- *Elven*'s silver sword now deals less damage.
+- Increased the amount of projectiles shots by *Forest Archer* from 10 to 20.
+- *Ghoul* has been renamed to *Golem* to fit the design, as well as reducing its range, health from **800** to **300**, also mass from 1.3 to 1.8.
+- *Bug Fanatic*'s health has been reduced from **200** to **170**, and his bugs will expire quicker, from **100** seconds to **60** seconds, basically 1 minute.
+- *Conjurer* health has been reduced from **200** to **100**.
+- *Druid* cost is increased to **2200**, health nerfed from **1000** to **500**, and damage reduced from **400** to **240**.
+- *Druid*'s acidic explosion now causes a little bit more damage.
+- Fixed *Conjurer* description being in the wrong faction.
+- *Thronekeeper* now has been renamed to *Throne Keeper*.
+- Optimized **Kinematic Far** to check *Throne Keeper* position earlier.
+- *Throne Keeper*'s **Static Mode** and **Animated Mode** now have an audio indication, as well his suffocation is based on time.
+- Fixed a wrong grammar on *Sword Mage*.
+- Nerfed *Swordmage* as well as his *Mordul* swords.
+- *Swordmage* now spawns *Mordul* swords with delays.
+- Greatly reduced the damage from *Mordul* swords, they now cause damage on teammates **90%** of their damage.
+- Changed *King Midas*'s skirt to match the legged unit, and all projectiles that stick to him now have more time before it is removed.
+- Nerfed *King Midas*'s health from **3000** to **1200**.
+- Improved *Soulforge Swordcaster* to have more range, also decreased health from **6000** to **2000**.
+- Replaced *Soulforge Swordcaster*'s sword explosion.
+- Debuffed *Ancestral Conquerer* health to be **3000** instead of **4000**, but increased his melee attack range by **50%**! Also changed his health regeneration to only apply when his health is below **300** HP, but the regeneration rate increased by **50%**, and also increased his attack speed by **75%** during this state! It goes back to normal when he reached **300** HP.
+- *Ancestral Conquerer*'s **Conquer Sword** is now improved visually.
+- Added sound designs for *Chompion*'s bear traps.
+- *Chompion*'s cost has been decreased to **600**, but also tremendously nerfed his health from **600** to **250**.
+- *Earl*'s health and melee range has been decreased to become normal.
+- *Earl*'s intimidation AoE now has looping audio.
+- *Foul Soul*'s explosion has been improved.
+- *Foul Soul* has been revamped, due to how weak it is now, it's cost is also decreased. 
+- *Behemoth*'s cost is decreased, and his HP is decreased too.
+- *Wretched Emmisary* and *Behemoth* now have greatly reduced health.
+- *Wretched Emmisary*'s head is now vulnerable, alongside his arms.
+- *Wretched Emmisary*'s terror projectiles now don't get instantly destroyed when it hits.
+- Increased *Unnamed Peasant*'s cost to match **DP** and **SP** cost.
+- Changed *Unnamed Peasant*'s **Helping Hands** ability to summon only 3 from left and right.
+- *Unnamed Peasant*'s explosion now in more constant stream.
+- *Unnamed Peasant*'s effects are now fixed to not causing *NaN* bugs.
+- *Unnamed Peasant*'s particle is now customized to have custom material, so is his **Helping Hands**.
+- Increased *Rogue* cooldown from 0.7 seconds to 2.6 seconds, but he will have a 1-second cooldown if hits are successful.
+- *Dead Mourner*'s health is decreased by about **80%**.
+- Decreased damage from *Headless Horseman* shield and his horse speed, meanwhile removing capabilities to damage teammates.
+- Increased the cost for *Headless Horseman*.
+- *Gravedigger*'s cost is increased to **2000** as well as decreased his health by a little bit but increased his spawns health a little.
+- *Bloodwalker*'s health significantly decreased from **2500** to **1700**, also his cost increased to **2200**.
+- Due to the new *Snakeeye*'s Snake buff, her Snakecolt cooldown is now increased.
+- *Brewer*'s potions explosion is now revamped to be more balanced and fixed some lag issues related to her explosions.
+- *Brewer*'s health has been increased a bit just to stay longer in battle even more.
+- *Bounty Hunter*'s vulture now has decreased damage but increased health by a little bit, and also smaller size so that it won't get hit by *Bounty Hunter* often.
+- *Bounty Hunter*'s vulture now flies a bit higher when going down.
+- *Bounty Hunter*'s cost is now **1100**.
+- *Rumbler*'s health has been decreased by **60%** to match the ranged unit's usual health.
+- *Helldraw*'s **Blazing Gun** now has different audio effects, and her cost is now increased to **3500**.
+- *Maximus*'s health has been toned down by **50%**.
+- *Maximus*'s particles are now based on his damage.
+- *Guardian*'s weapon's name has been changed.
+- *Guardian*'s indicator is now removed.
+- Buffed *Cyber Punk* damage increased on hit passive ability, from only **10%** to **30%**, and also could increase after several seconds (approx 3 seconds).
+- *Cyber Punk*'s trail now indicates his damage too, the bigger they are, the more damage it dealt.
+- *Cyber Punk*'s cost has been decreased due to his block being removed, all his current stats are also revamped. 
+- *Cyber Punk*'s color theme has been changed to yellow and black instead of green and black. 
+- *Dubcore Artillery*'s music has been changed to something better.
+- *Dubcore Artillery*'s attacks has been revamped, added effects and tweaked some stats.
+- Redesigned some units clothing.
+- Added more mass for some units.
+- Renamed most items to make more sense.
+- Removed unnecessary or redundant functions, classes, and codes.
+- Removed unnecessary and redundant items like *clothes, unit base, etc*.
+- The factions have been sorted based on the current list in **Init Section** and mod description.
+- All custom resources like custom icons and models now use **AssetBundle** to optimize loading.
+- All unit description on the mod page has been improved.
+- All units have been reviewed and revamped by me with help of **Googly Eyes**!
+- And many more that I may forgot to add to changelogs!
+
 #### (1.2.1)
 
 **Major Update**
@@ -53,8 +151,6 @@
 - *Gravedigger*, now reset health when switching to **Bat** state and **Vampire** state, but only himself and not his armies.
 - Renamed Unit: **Cyberpunk** to **Cyber Punk**.
 - Removed some redundant codes.
-
-## Coming Units:
 
 #### (1.2.0)
 
