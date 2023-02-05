@@ -5,7 +5,7 @@
 **New Units, Features, Abilities, and Additions!**
 
 - New Factions: **Modern Warfare**.
-- New Units: *Ticksaber, Dark Huntsman, Greathammer, F22 Jet, Avira, M0DD3R*.
+- New Units: *Ticksaber, Dark Huntsman, Greathammer, F22 Jet, Avira, M0D*.
 - New Icons for several units(revamped and new units) and new Faction from **Hambody**.
 - *Wayang*'s design has been improved.
 - *Soulforge*'s clothing decoration is improved.
