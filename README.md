@@ -1,5 +1,108 @@
 ## Changelogs 🎁 
 
+#### (1.2.3)
+
+**New Units, Features, Abilities, and Additions!**
+
+- New Factions: **Modern Warfare**.
+- New Units: *Ticksaber, Dark Huntsman, Greathammer, F22 Jet, Avira, M0DD3R*.
+- New Icons for several units(revamped and new units) and new Faction from **Hambody**.
+- *Wayang*'s design has been improved.
+- *Soulforge*'s clothing decoration is improved.
+- *Soulforge*'s **Last Forge** mode clothing is now fully revamped, and it last fo **40** seconds than **22** seconds.
+- *Prayeth*'s now has an indication, decreased cost and distance limit.
+- *Sacrificer* now has an indication when *damaging* himself for summoning.
+- *Wretched Emmisary* is revamped to be more like its original concept, becoming a true representative of the wretched... the *humans*.
+- *Mage*'s effect immunity now has a small indication.
+- *Eastwood* now puts his left hand on his gun when shooting.
+- Some factions now have filled to have 7 units!
+- Added some Audio and Visual indications to some abilities.
+- Added **Creative Commons License** for which acts as License Protection, *thanks to my seniors for suggesting and guiding for it.*
+
+**Changes, Revamps and Bug Fixes!**
+
+- Decreased cost of *Hermit*.
+- Improved *Hermit* ability to be more convenient, removing its projectile resistance, and now giving it an audio indication.
+- *Hermit*'s throw no longer stuck on itself, and also changed from a spear to a stick.
+- *Titanoboa*'s slither has been changed to be more proper.
+- *Fisherman*'s cost is slightly increased from **210** to **220**.
+- *Totem*'s indication is now delayed.
+- *Myconid*'s cap is now team colored based.
+- *Myconid*'s sporing effect is now based on the health of the unit.
+- *Druid*'s health is drastically decreased, cost increased a little, and removed his projectile passing ability.
+- *Goblins* now have smaller spears and team-colored clothing.
+- *Enforcer*'s name has been changed to *Assassin*.
+- *Enforcer* has been revamped, decreasing his health, cooldown, and damage.
+- *Enforcer*'s teleporting indication is now the same as *Rogue*.
+- *Enforcer*'s targeting when possessed is now based on the aiming of possession.
+- *Soulforge*'s hover is now actually make him hover.
+- *Soulforge*'s hand lock now have slight different materials.
+- *Soulforge*'s gigantic sword cast now has slight glowish outline.
+- *Soulforge*'s screen shake VFX is now lesser.
+- *Ancestral Conquerer*'s block now has a bigger indication.
+- *Ancestral Conquerer*'s fog is reduced, and its crown is removed.
+- *Ancestral Conquerer*'s explosion now has more impact and damage.
+- *Sacrificer*'s knife could now act as a melee weapon.
+- *Behemoth*'s unit base has been fixed, and his dual *flammerst* is now wielded correctly, becoming 1 item instead of 2 separate item.
+- *Evicted Gallant*'s eye is actually crying now, forgot to implemented that one. 
+- *Evicted Gallant* has been nerfed in range, attack speed, and damage a little bit.
+- *Evicted Gallant* mass has been changed to **20**, while the walk speed multiplier to **1.2** instead of **1.3**.
+- *Raider*'s targeting when possessed is now based on the aiming of possession.
+- *Raider*'s health has been slightly buffed from **110** to **160**.
+- *Raider* will now not pull herself when dead, and also have SFX for grappling.
+- *Raider*'s gravity bug is fixed.
+- *Wendigo* now actually have antlers.
+- *Wendigo* stats has been nerfed, and its cost reduced from **450** to **300**.
+- *Earl*'s **Intimidation** explosion is now more optimized.
+- *Forstenad* has been nerfed and revamped, now cost **2500**.
+- *Glacier Giant*'s **Ice Age** ability is revamped to shows indication of ice storm.
+- *Glacier Giant*'s **Ice Core** and **Glace Arise** abilities is removed due to being nonessential.
+- *Glacier Giant*'s mass is increased significantly, from **200** to **600**.
+- *Snakeeye*'s health has decreased.
+- *Bounty Hunter*'s cost has been increased a little, and his vulture's low height is now **50%** lower.
+- *Helldraw*'s shooting sounds now have more impact.
+- *Maximus* particle which is based on damage is now smaller.
+- *Venturer*'s SFX is lowered, and his health is buffed from **120** to **150** to match his cost.
+- *Mage*'s range has been increased, at the cost of his forces effect reduced to 5 seconds instead of eternity.
+- *Excalibur*'s sword now does not exert the **Kill Aura**, only his ability.
+- *Excalibur*'s effect has been buffed to be stronger and more destructive.
+- Added custom swing force for *Excalibur*.
+- *Guardian* hierarchy has been lowered to below *Excalibur*, removing his healing AoE, as well as both of his **Holy Projectile**. He still keeps his role as Tanky Support unit, but in terms of defense only. His stats are matched up and the cost decreased to **1500**.
+- *Guardian*'s **Protection Shield**'s ability is now more optimized and stylized.
+- Changed *Cyborg*'s shield for a bit.
+- Decreased *Cyber Punk* stats by **35%**. Also moving his passive on-hit buff ability to *Guardian*.
+- *Biomaniac*'s now walk backward instead of staying still when in range, his effect now has SFX and only stays for 10 seconds.
+- *Puppeteer*'s ranged puppet has a lower cooldown now.
+- *Puppeteer*'s string now has a team-colored base. Also removed some unnecessary clothing.
+- *Puppeteer* and her *Puppets* have their stats changed.
+- *Puppeteer*'s face flicker has been moved for *Wayang* instead.
+- *Puppeteer*'s cost is now increased to **1800** from **1500** due to strategic advantage.
+- *Dubcore*'s volume has been lowered drastically.
+- *Dubcore*'s rider and cannon health is nerfed, but its cost is now **2200**.
+- *Dubcore*'s damage, fire rate, and speed are decreased.
+- *Ionic Tyrant*'s cost is reduced to **4500**.
+- *Ionic Tyrant*'s **Lancegun** projectile changing ability is now connected to his weapon instead of the unit base.
+- *Ionic Tyrant*'s distance-based ammo is now more optimized.
+- *Ionic Tyrant*'s forcefield now shrinks upon deflection, and slowly generates.
+- *Drunken Master*'s damage has been reduced... *burps*
+- *Headless Horseman* cost is now **2500**, increased stats, and his phantom horses now are deleted faster.
+- *Headless Horseman*'s pumpkin head following now has no collision.
+- *Headless Horseman* now has a customized design.
+- *Soul Collector* now won't trip as much, buffed his health from **1000** to **2000**, and changed step sounds.
+- Nerfed *Eastwood* greatly, decreasing his cost to **5000** and matched his stats to it. *Sorry pard'ner, you're still the hero in my book.*
+- *Eastwood*'s bullet now could hit the same target, but also nerfed the bullet stats tremendously.
+- Revamped *Eastwood*'s particle on bullet collider only hit max to **4** hits per bullet instead of **50** max hits per bullets.
+- Refined *Eastwood*'s clothing, removing his beard in the process.
+- *Marina*'s attack speed is nerfed from **3** seconds to **5** seconds.
+- *Marina*'s **Whirpool** ability has increased cooldown and bigger range for activation.
+- *Marina*'s **Anchor Enlarge** now have SFX and her **Wave Dash** is now more optimized.
+- Nerfed *Marina*'s anchor damage by **100**.
+- *Totem* and *Glacier Giant* size now won't conflict with *NoVariation* mod.
+- All *Subunits* and some *Units* now won't show the health bar.
+- Some unit description has been changed... again.
+- And many more that I could not remember!
+- Removed unnecessary debug like the Expansionary welcoming.
+
 #### (1.2.2)
 
 **New Units, Features, Abilities, and Additions!**
@@ -16,7 +119,7 @@
 - *Snakeye*'s snake would now summon 3 little snakes upon death.
 - *Maximus* now has a new passive called **To The Max**, which each time *Maximus* shot a bullet he gains more range by **2%**! And now his bullet increased the damage based on how many it pierced, it's doubled by **100%**! The VFX Particle size is now based on the damage of bullets.
 - Added **Shield Coverant** to *Guardian*, which heals enemies and acts as a shield and served as protection and cover.
-- Added some Audio and Visual indication to some abilities.
+- Added some Audio and Visual indications to some abilities.
 
 **Changes, Revamps and Bug Fixes!**
 
@@ -60,8 +163,8 @@
 - *Wretched Emmisary*'s terror projectiles now don't get instantly destroyed when it hits.
 - Increased *Unnamed Peasant*'s cost to match **DP** and **SP** cost.
 - Changed *Unnamed Peasant*'s **Helping Hands** ability to summon only 3 from left and right.
-- *Unnamed Peasant*'s explosion now in more constant stream.
-- *Unnamed Peasant*'s effects are now fixed to not causing *NaN* bugs.
+- *Unnamed Peasant*'s explosion is now in a more constant stream.
+- *Unnamed Peasant*'s effects are now fixed to not cause *NaN* bugs.
 - *Unnamed Peasant*'s particle is now customized to have custom material, so is his **Helping Hands**.
 - Increased *Rogue* cooldown from 0.7 seconds to 2.6 seconds, but he will have a 1-second cooldown if hits are successful.
 - *Dead Mourner*'s health is decreased by about **80%**.
@@ -86,8 +189,8 @@
 - *Cyber Punk*'s cost has been decreased due to his block being removed, all his current stats are also revamped. 
 - *Cyber Punk*'s color theme has been changed to yellow and black instead of green and black. 
 - *Dubcore Artillery*'s music has been changed to something better.
-- *Dubcore Artillery*'s attacks has been revamped, added effects and tweaked some stats.
-- Redesigned some units clothing.
+- *Dubcore Artillery*'s attacks have been revamped, added effects and tweaked some stats.
+- Redesigned some units of clothing.
 - Added more mass for some units.
 - Renamed most items to make more sense.
 - Removed unnecessary or redundant functions, classes, and codes.
@@ -96,7 +199,7 @@
 - All custom resources like custom icons and models now use **AssetBundle** to optimize loading.
 - All unit description on the mod page has been improved.
 - All units have been reviewed and revamped by me with help of **Googly Eyes**!
-- And many more that I may forgot to add to changelogs!
+- And many more that I may forget to add to changelogs!
 
 #### (1.2.1)
 
