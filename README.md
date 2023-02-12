@@ -1,8 +1,32 @@
 ## Changelogs 🎁 
 
-#### (1.2.3)
+#### (1.2.4)
 
 **New Units, Features, Abilities, and Additions!**
+
+- New Units: *Sherlock, Sergeant*.
+- Added new Icons for the new Units.
+- *Succubus*, *Conjurer*, *Swordmage*, *Gravedigger*, *Maximus* and *Midas*'s clothings are revamped and becomes customized prop instead of new items.
+
+**Changes and Bug Fixes!**
+
+- Increased cost of *F-22 Jet* to **14000**.
+- Fixed *Ice Age* particle acting too much.
+- Fixed *Flammerst* didn't work properly.
+- Fixed *Wretched Emisarry* to work properly on another maps.
+- *Brewer*'s throw potion is now only 1 item instead of being 2 separate items.
+- *Mongolian*'s shoot amount distance passive is now inside the bow instead of the unit base.
+- *King Midas*'s name has been changed to *Midas*.
+- Fixed *M0D* doesn't clears up properly :/
+- *Eastwood*'s beard is given back due to him being shaved looks too fresh 😔.
+- Optimized and removed some unit bases.
+- Optimized and removed some items.
+- Some unit description has been changed... again.
+- And many more that I could not remember!
+
+#### (1.2.3)
+
+**New Units, Faction, Features, Abilities, and Additions!**
 
 - New Factions: **Modern Warfare**.
 - New Units: *Ticksaber, Dark Huntsman, Greathammer, F22 Jet, Avira, M0D*.
