@@ -1,19 +1,78 @@
 ## Changelogs 🎁 
 
+#### (1.2.5)
+
+**MAJOR CHANGES AND FEATURES UPDATE!**
+
+**New Units, Features, Abilities, and Additions!**
+
+- New Units: *Airhound, Submarine, Hangman, Geomancer, Kitsune, Headhunter*.
+- Even more new *Icons* for the new units and **Expansionary** logo by **HambodyKidz**.
+- Added some Audio and Visual indications to some abilities.
+- Added whispering noises to *Unnamed Peasant*.
+- Added a shoe for *Ticksaber*, it was not an intentional design and I just forgot to add it.
+- Added a new passive ability for *Forstenad*, which makes him summon 3 lightning at a random location near his vicinity.
+- Added new ability for *Cyber Punk*: **Home Run!**, A medium cooldown ability which would make his bat starts to glow yellow bright, he targets the closest enemy, and upon reaching the target, he would send the target airborne, while also dealing a random multiplier along with damage based on his bat to the target.
+- *F22* are now possessive but not controllable.
+- Turned *Marina*'s **Water Affinity** into an ability.
+
+**Changes, Revamps and Bug Fixes!**
+
+- Doubled the cooldown on *Sergeant*'s **Troops Call** from 20 to 40.
+- Fixed *Assassin*'s projectile causing target to turns into **NaN**.
+- Revamped *Dark Huntsman*'s particles and added particles to his weapons too!
+- **PuppetController** Items have been combined into 1 instead of a separate item.
+- Nerfed *Guardian*'s **TankHitBuff** to only increased his damage by **20%** instead of **30%**, also turning it into an ability instead and detecting only when he is damaged instead of all health alteration.
+- *Avira*'s **Slash Combo** ability is now a Moveset instead of hard-coded into his sword, and more optimized.
+- *Marina*'s whirlpool ability is more optimized and has more impact.
+- Moved *Drunken Master* into **Farmer** faction.
+- Renamed **Darkfist_Base** to **Invisible_Humanoid_Base**, also removing the **Damage Based on Health** component.
+- Renamed *Soul Collector* to *Undertaker*.
+- Renamed *Cyborg* to *Droid*.
+- Renamed *Ticksaber* to *Time Queen*.
+- Modified *Soulforge*'s fiery eye.
+- Decreased *F22*'s cost to **10000**. 
+- *Bloodwalker*'s **Bloodletting Sword** now make units sticks to it.
+- **Severed Hands** and *Wretched* from *Wretched Emmisarry* now compacted.
+- *Wretched Emmisarry*'s body base is slightly optimized.
+- Customized *Excavator* dynamites spins to be more destructive.
+- *Dark Huntsman*'s unit base has been removed, and his eye becomes an item of clothing.
+- *Ancestral Conquerer*'s **Energy Overdrive** effect now emits light.
+- *Ancestral Conquerer* now has a glowing red pupil and glides down from the sky.
+- Revamped *Ancestral*'s **Rukyrion** sword's effect and function.
+- Fixed *Vulture* on *Bounty Hunter* getting instantly destroyed.
+- *Puppeteer*'s **Mother Puppet**'s bloody dress is now innaccessible.
+- Nerfed *F22*'s **Homing Missile** to be homing only on the first second, added more cooldown to attack speed a bit and have a harder impact.
+- Revamped *Ticksaber*'s rapier Pierce to make her dash forward while also summoning a homing **Crescent** instead of teleporting.
+- Nerfed the *Ticksaber*'s **Time Slash**, but balanced it by making her heals **10** point of health for each slash, also make it a combat movement.
+- Optimized *Ancestral Conquerer*'s unfalling passive to be based on his current position instead of a fixed position.
+- Increased health a bit and increased the screen shake of **Pained Scream** for *Wretched Emmisary*.
+- Removed the **Dead Skull** clothing on *Dead Mourner*, changed his eye into cloth items, and revamped his clothing to be normal.
+- *Dead Mourner*'s unit base are revamped and renamed to *Tainted Humanoid Base*.
+- Small particle addition for *M0D*.
+- Revamped *Ionic Tyrant, Cyber Punk, Dubcore Rider, Succubus, Fisherman, Rumbler, Bloodwalker, Drunken Master, Excavator, Excalibur, Helldraw, Bounty Hunter, Earl, Sergeant, Parachute Soldiers, and Brewer*'s clothing (removed old clothing items too).
+- Removed the *Loading Delay* for Expansionary so the Items are loaded properly.
+- Renamed some **Items** to make more sense.
+- Revamped some unit descriptions grammar and spelling.
+- Added **Expansionary** logo icons to all current items.
+- Renamed a few items to make sense.
+- Moved **Q&A** to Wiki.
+- And more bug fixes!
+
 #### (1.2.4)
 
 **New Units, Features, Abilities, and Additions!**
 
 - New Units: *Sherlock, Sergeant*.
 - Added new Icons for the new Units.
-- *Succubus*, *Conjurer*, *Swordmage*, *Gravedigger*, *Maximus* and *Midas*'s clothings are revamped and becomes customized prop instead of new items.
+- *Succubus*, *Conjurer*, *Swordmage*, *Gravedigger*, *Maximus*, and *Midas*'s items of clothing are revamped and becomes customized prop instead of new items.
 
 **Changes and Bug Fixes!**
 
 - Increased cost of *F-22 Jet* to **14000**.
 - Fixed *Ice Age* particle acting too much.
 - Fixed *Flammerst* didn't work properly.
-- Fixed *Wretched Emisarry* to work properly on another maps.
+- Fixed *Wretched Emisarry* to work properly on another map.
 - *Brewer*'s throw potion is now only 1 item instead of being 2 separate items.
 - *Mongolian*'s shoot amount distance passive is now inside the bow instead of the unit base.
 - *King Midas*'s name has been changed to *Midas*.
@@ -30,24 +89,24 @@
 
 - New Factions: **Modern Warfare**.
 - New Units: *Ticksaber, Dark Huntsman, Greathammer, F22 Jet, Avira, M0D*.
-- New Icons for several units(revamped and new units) and new Faction from **Hambody**.
+- New Icons for several units(revamped and new units) and a new Faction from **Hambody**.
 - *Wayang*'s design has been improved.
 - *Soulforge*'s clothing decoration is improved.
-- *Soulforge*'s **Last Forge** mode clothing is now fully revamped, and it last fo **40** seconds than **22** seconds.
-- *Prayeth*'s now has an indication, decreased cost and distance limit.
+- *Soulforge*'s **Last Forge** mode clothing is now fully revamped, and it last for **40** seconds than **22** seconds.
+- *Prayeth*'s now has an indication, decreased cost, and distance limit.
 - *Sacrificer* now has an indication when *damaging* himself for summoning.
 - *Wretched Emmisary* is revamped to be more like its original concept, becoming a true representative of the wretched... the *humans*.
 - *Mage*'s effect immunity now has a small indication.
 - *Eastwood* now puts his left hand on his gun when shooting.
 - Some factions now have filled to have 7 units!
 - Added some Audio and Visual indications to some abilities.
-- Added **Creative Commons License** for which acts as License Protection, *thanks to my seniors for suggesting and guiding for it.*
+- Added **Creative Commons License** for which acts as License Protection, *thanks to my seniors for suggesting and guiding it.*
 
 **Changes, Revamps and Bug Fixes!**
 
-- Decreased cost of *Hermit*.
+- Decreased cost for *Hermit*.
 - Improved *Hermit* ability to be more convenient, removing its projectile resistance, and now giving it an audio indication.
-- *Hermit*'s throw no longer stuck on itself, and also changed from a spear to a stick.
+- *Hermit*'s throw no longer stuck on itself and also changed from a spear to a stick.
 - *Titanoboa*'s slither has been changed to be more proper.
 - *Fisherman*'s cost is slightly increased from **210** to **220**.
 - *Totem*'s indication is now delayed.
@@ -59,27 +118,27 @@
 - *Enforcer* has been revamped, decreasing his health, cooldown, and damage.
 - *Enforcer*'s teleporting indication is now the same as *Rogue*.
 - *Enforcer*'s targeting when possessed is now based on the aiming of possession.
-- *Soulforge*'s hover is now actually make him hover.
-- *Soulforge*'s hand lock now have slight different materials.
-- *Soulforge*'s gigantic sword cast now has slight glowish outline.
+- *Soulforge*'s hover is now actually making him hover.
+- *Soulforge*'s hand lock now have slightly different materials.
+- *Soulforge*'s gigantic sword cast now has a slight glow outline.
 - *Soulforge*'s screen shake VFX is now lesser.
 - *Ancestral Conquerer*'s block now has a bigger indication.
 - *Ancestral Conquerer*'s fog is reduced, and its crown is removed.
 - *Ancestral Conquerer*'s explosion now has more impact and damage.
 - *Sacrificer*'s knife could now act as a melee weapon.
-- *Behemoth*'s unit base has been fixed, and his dual *flammerst* is now wielded correctly, becoming 1 item instead of 2 separate item.
-- *Evicted Gallant*'s eye is actually crying now, forgot to implemented that one. 
+- *Behemoth*'s unit base has been fixed, and his dual *Flammerst* is now wielded correctly, becoming 1 item instead of 2 separate items.
+- *Evicted Gallant*'s eye is actually crying now, forgot to implement that one. 
 - *Evicted Gallant* has been nerfed in range, attack speed, and damage a little bit.
 - *Evicted Gallant* mass has been changed to **20**, while the walk speed multiplier to **1.2** instead of **1.3**.
 - *Raider*'s targeting when possessed is now based on the aiming of possession.
 - *Raider*'s health has been slightly buffed from **110** to **160**.
 - *Raider* will now not pull herself when dead, and also have SFX for grappling.
 - *Raider*'s gravity bug is fixed.
-- *Wendigo* now actually have antlers.
+- *Wendigo* now actually has antlers.
 - *Wendigo* stats has been nerfed, and its cost reduced from **450** to **300**.
 - *Earl*'s **Intimidation** explosion is now more optimized.
-- *Forstenad* has been nerfed and revamped, now cost **2500**.
-- *Glacier Giant*'s **Ice Age** ability is revamped to shows indication of ice storm.
+- *Forstenad* has been nerfed and revamped, and now costs **2500**.
+- *Glacier Giant*'s **Ice Age** ability is revamped to show an indication of an ice storm.
 - *Glacier Giant*'s **Ice Core** and **Glace Arise** abilities is removed due to being nonessential.
 - *Glacier Giant*'s mass is increased significantly, from **200** to **600**.
 - *Snakeeye*'s health has decreased.
@@ -95,7 +154,7 @@
 - *Guardian*'s **Protection Shield**'s ability is now more optimized and stylized.
 - Changed *Cyborg*'s shield for a bit.
 - Decreased *Cyber Punk* stats by **35%**. Also moving his passive on-hit buff ability to *Guardian*.
-- *Biomaniac*'s now walk backward instead of staying still when in range, his effect now has SFX and only stays for 10 seconds.
+- *Biomaniac* now walks backward instead of staying still when in range, his effect now has SFX and only stays for 10 seconds.
 - *Puppeteer*'s ranged puppet has a lower cooldown now.
 - *Puppeteer*'s string now has a team-colored base. Also removed some unnecessary clothing.
 - *Puppeteer* and her *Puppets* have their stats changed.
@@ -107,18 +166,18 @@
 - *Ionic Tyrant*'s cost is reduced to **4500**.
 - *Ionic Tyrant*'s **Lancegun** projectile changing ability is now connected to his weapon instead of the unit base.
 - *Ionic Tyrant*'s distance-based ammo is now more optimized.
-- *Ionic Tyrant*'s forcefield now shrinks upon deflection, and slowly generates.
+- *Ionic Tyrant*'s forcefield now shrinks upon deflection and slowly generates.
 - *Drunken Master*'s damage has been reduced... *burps*
 - *Headless Horseman* cost is now **2500**, increased stats, and his phantom horses now are deleted faster.
 - *Headless Horseman*'s pumpkin head following now has no collision.
 - *Headless Horseman* now has a customized design.
 - *Soul Collector* now won't trip as much, buffed his health from **1000** to **2000**, and changed step sounds.
-- Nerfed *Eastwood* greatly, decreasing his cost to **5000** and matched his stats to it. *Sorry pard'ner, you're still the hero in my book.*
-- *Eastwood*'s bullet now could hit the same target, but also nerfed the bullet stats tremendously.
+- Nerfed *Eastwood* greatly, decreasing his cost to **5000** and matched his stats to it. *Sorry pardner, you're still the hero in my book.*
+- *Eastwood*'s bullet now could hit the same target but also nerfed the bullet stats tremendously.
 - Revamped *Eastwood*'s particle on bullet collider only hit max to **4** hits per bullet instead of **50** max hits per bullets.
 - Refined *Eastwood*'s clothing, removing his beard in the process.
 - *Marina*'s attack speed is nerfed from **3** seconds to **5** seconds.
-- *Marina*'s **Whirpool** ability has increased cooldown and bigger range for activation.
+- *Marina*'s **Whirpool** ability has increased cooldown and a bigger range for activation.
 - *Marina*'s **Anchor Enlarge** now have SFX and her **Wave Dash** is now more optimized.
 - Nerfed *Marina*'s anchor damage by **100**.
 - *Totem* and *Glacier Giant* size now won't conflict with *NoVariation* mod.
@@ -177,10 +236,10 @@
 - *Ancestral Conquerer*'s **Conquer Sword** is now improved visually.
 - Added sound designs for *Chompion*'s bear traps.
 - *Chompion*'s cost has been decreased to **600**, but also tremendously nerfed his health from **600** to **250**.
-- *Earl*'s health and melee range has been decreased to become normal.
-- *Earl*'s intimidation AoE now has looping audio.
+- *Earl*'s health and melee range have been decreased to become normal.
+- *Earl*'s intimidation AoE now has to loop audio.
 - *Foul Soul*'s explosion has been improved.
-- *Foul Soul* has been revamped, due to how weak it is now, it's cost is also decreased. 
+- *Foul Soul* has been revamped, due to how weak it is now, and its cost is also decreased. 
 - *Behemoth*'s cost is decreased, and his HP is decreased too.
 - *Wretched Emmisary* and *Behemoth* now have greatly reduced health.
 - *Wretched Emmisary*'s head is now vulnerable, alongside his arms.
@@ -210,19 +269,19 @@
 - *Guardian*'s indicator is now removed.
 - Buffed *Cyber Punk* damage increased on hit passive ability, from only **10%** to **30%**, and also could increase after several seconds (approx 3 seconds).
 - *Cyber Punk*'s trail now indicates his damage too, the bigger they are, the more damage it dealt.
-- *Cyber Punk*'s cost has been decreased due to his block being removed, all his current stats are also revamped. 
+- *Cyber Punk*'s cost has been decreased due to his block being removed, and all his current stats are also revamped. 
 - *Cyber Punk*'s color theme has been changed to yellow and black instead of green and black. 
 - *Dubcore Artillery*'s music has been changed to something better.
-- *Dubcore Artillery*'s attacks have been revamped, added effects and tweaked some stats.
+- *Dubcore Artillery*'s attacks have been revamped, added effects, and tweaked some stats.
 - Redesigned some units of clothing.
 - Added more mass for some units.
 - Renamed most items to make more sense.
 - Removed unnecessary or redundant functions, classes, and codes.
 - Removed unnecessary and redundant items like *clothes, unit base, etc*.
-- The factions have been sorted based on the current list in **Init Section** and mod description.
+- The factions have been sorted based on the current list in the **Init Section** and mod description.
 - All custom resources like custom icons and models now use **AssetBundle** to optimize loading.
 - All unit description on the mod page has been improved.
-- All units have been reviewed and revamped by me with help of **Googly Eyes**!
+- All units have been reviewed and revamped by me with the help of **Googly Eyes**!
 - And many more that I may forget to add to changelogs!
 
 #### (1.2.1)
@@ -238,10 +297,10 @@
 - *Ancestral Conquerer* now has a passive ability called **Between Heaven and Hell**, which makes him able to fly upward upon reaching a low level.
 - *Unnamed Peasant* now has an ability called **Void of Soul**, which acts like a black hole, which sucks on every unit near him, also added a new ability called **Reaching Fragment**, where *Unnamed Peasant* condensed his essences into multiple homing strikes that can hit once, damage based on how long it is active, the more it is alive the more it damages, upon reaching 0 damage, it dies off.
 - *Behemoth* now has a new passive ability called **Lame de Flamme**, which sets every enemy near him on extreme fire.
-- Replaced *Wayang* explosion on hit with a new ability called **Divine Sunshine**, which is the best way to deal with low-health armies since it makes every enemy within a few radius burst a mini-sun, but there's a drawback, the sun deals damage to allies and enemies. The ability activates when it swings its sword, and it takes a few seconds to reload.
+- Replaced *Wayang* explosion on hit with a new ability called **Divine Sunshine**, which is the best way to deal with low-health armies since it makes every enemy within a few radii burst a mini-sun, but there's a drawback, the sun deals damage to allies and enemies. The ability activates when it swings its sword, and it takes a few seconds to reload.
 - *Bounty Hunter* now has an ability called **Dead Line**, which increased damage by **1%** each time it travels, it has a max capped of **5000** damage.
 - *Helldraw* now has custom bases and a custom ability to absorb any projectiles to heal herself and increase health by **66%** of the damage of light projectiles and bounce back the projectile with increased damage and force by **150%**, this ability would be capped when Helldraw reached 500 or more health. This however also has a lethal drawback, of turning enemies projectile that is absorbed to be more fatal!
-- Added custom trail design for *Cyber punk* swing.
+- Added custom trail design for *Cyber Punk* swing.
 - Added **Bloated Blood** ability for *Bloodwalker*, which lets him regenerate by **25%** of lost health in **15** seconds, meaning the more he lost health, the higher the heals.
 - Added hidden easter eggs for a *Puppeteer* that has a chance of **1%** to appear.
 - added an ability called **Void of Soul** to *Unnamed Peasant*, which acts like a black hole.
@@ -341,7 +400,7 @@
 - *Gravebat's* bloodlust eye has been transferred to *Bloodwalker*.
 - *Unnamed Peasant* mad trail is now fully invisible (No more gray indicator) and added more particles for him.
 - *Soulforge Swordcaster* now has an improved visual design.
-- *Bounty Hunter*'s vulture is now released on a longer range.
+- *Bounty Hunter*'s Vulture is now released on a longer range.
 - Revamped *Gravedigger*'s ability to be more certain instead of a gamble, but I didn't remove the gambling feature entirely. Now, instead of summoning Vampires or Skeleton Warriors, he summons *Dead Villagers*, which have randomized weaponry, and occasionally, 1/5 Chance, one of the villagers wields a _Torch_ weapon (This took so long for me to figure out, bruh).
 
 #### (1.1.7)
@@ -460,7 +519,7 @@
 
 #### (1.0.5)
 
-- fixed text pronunciation, "Eppansionary" changed into "Expansionary".
+- fixed text pronunciation, **"Eppansionary"** changed into "Expansionary".
 
 #### (1.0.4)
 
@@ -475,7 +534,7 @@
 
 - Added **Great Forest**, **Dead Line**, **Warmonger**, and **Chaotic** faction.
 - Added custom icons for both Tropical and Forgotten Communion.
-- Balanced Fiery Explosion and Fire Arena on Fire Potion by Brewer throw.
+- Balanced Fiery Explosion and Fire Arena on Fire Potion by Brewer Throw.
 - Positioned the Faction so it is near to its closest theme.
 
 #### (1.0.2)
