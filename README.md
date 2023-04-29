@@ -1,5 +1,9 @@
 ## Changelogs 🎁 
 
+#### (1.2.6)
+
+- Very quick fix to Headhunter ability, you saw nothing ok?
+
 #### (1.2.5)
 
 **MAJOR CHANGES AND FEATURES UPDATE!**
