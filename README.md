@@ -1,5 +1,169 @@
 ## Changelogs 🎁 
 
+#### (1.2.8)
+
+**MAJOR REVAMP AND UPDATE**
+
+**Even more new Units, Abilities, and Additions!**
+
+- New Units: *Wraithwyrm, Doomed Scholar, Umbrellina, Spelungker, Romeo & Juliet, Tinkerl, Pastel, Hercules*.
+- Revamped Units: *Headhunter, Wayang, Ionic Tyrant, Maximus, Dubcore Artillery (Dubghost), also other units*.
+- New Abilities for some units.
+- New *Icons* for new units.
+
+**Updates, Revamps, Changes, Balances, and Fixes!**
+
+- *Kitsune* **Ink Bubble** now has smoother stops and custom material.
+- Fixed *Wretched Emmisary*'s **Back Humanoid** to be more properly connected to his torso.
+- Optimized *Avira*'s **Combo Slash** to be more cleaner and flashy.
+- Optimized *Glacier Giant* overalls.
+- Changed *Puppeteer*'s **Puppetry** puppet instead of being invincible to slowly heal and has reduced max health after healing.
+- Optimized *Noir*'s moveset and abilities.
+- Changed *Rafflesia*'s effect spread from every **1** second to only the start and end of the effect.
+- Optimized *Rafflesia*'s ability conditions, effect and explosion.
+- *Eastwood*'s **Wild West Fog** is now relative to his position.
+- Nerfed *Blockbuster* base damage.
+- Nerfed *Earl*'s stats to match his lower cost of **1500**.
+- Shortened *Earl*'s **Intimidation**'s aura from **6** seconds to **3** seconds.
+- Customized *Earl*'s **Intimidation** effect.
+- Prolonged *Bloodwalker*'s **Bloodlord Tribute** death anchoring from **6** seconds to **10** seconds and also optimizing it.
+- Nerfed *Evicted Gallant*'s **Rust** effect and knockback.
+- Fixed *Evicted Gallant* not working for the **Blue** team.
+- Optimized *Rogue*'s **Betrayal** again, hope this time it works.
+- Optimized *Dark Huntsman*'s mutilation effect.
+- Revamped *Wayang* and *Maximus*.
+- Nerfed *Ionic Tyrant*'s cost to **2500** and revamped a bit of the stats to match its cost.
+- Revamped all *Ionic Tyrant*'s abilities. 
+- Revamped *Ionic Tyrant*, removing his shield but also enhancing his **Ionic Gunlance** to be further customized.
+- Fixed **Bloated Blood**'s ability not showing any health indication for **Damage Indicator** mod, also slightly buffing it.
+- Slight fixation on *Forstenad*'s **Sky Thunders**.
+- Slight buff to *Headhunter*'s **Draconic Roar**.
+- Revamped **Hunter Mark** ability, renaming it to **Pained Path** and also turning it to be available on **Eclipse** mode. 
+- Revamped *Headhunter*'s **Absolute Eclipse** transformation and phase. 
+- Revamped *Headhunter*'s **Shadow Disintegration** effect to **Critical Slash** effect.
+- Removed *Headhunter*'s random cost and health, and also removed his **Heaven or Hell** passive.
+- Revamped *Headhunter*'s items of clothing and weapon model.
+- Added a passive for *Headhunter*, where he keeps his sword and runs fast until the target is nearby. 
+- Given custom visual for *Elven*'s **Mithril Sword**.
+- Balanced *Foul Soul* stats.
+- Enhanced *Foul Soul* visual base design.
+- Optimized **Hunger Debuff** so it won't make him too killable by adding delay per damage (for now it's **1** milliseconds instead of per-tick).
+- Changed *Foul Soul* punch movement to have some dash and downward momentum, also grapples much longer.
+- Revamped **Rukyrion**'s **Realm Divider** visual effect.
+- Fixed *Ancestral Conquerer*'s **Elder Aura** fog not following him.
+- Turned *Ancestral Conquerer*'s passive ability into a combat ability item.
+- Optimized *Ancestral Conquerer*'s visual and behaviors.
+- Reduced the delay on *Ancestral Conquerer*'s **Sky Strike** alongside changing color focus to red.
+- *Mage*'s **Wand** particles changed to be less transparent.
+- Added custom swing trail and revamped custom effect for **Excalibur Sword**.
+- Change *Droid*'s eye into multiple instead of just a single eye.
+- Fixed *Droid*'s shield model being horizontally reversed. 
+- Nerfed and optimized *Stereo* weapons and abilities, and also a few visual changes.
+- Given **X-Mask** clothing to *Stereo*.
+- *Dead Mourner* description has been updated to match its actuality.
+- Remodeled *Marina*'s **Sunken Anchor** alongside optimizing its abilities.
+- Revamped *Venturer*'s map functionality.
+- Refined and remodeled *Fisherman* to have custom weapon models and custom weapon movement, reclothed, and rearranged some miscellaneous stats (mass and size).
+- Revamped *Guardian*'s stats a bit considering his cost got increased.
+- *Clash Siege* and *Chaotic Line* faction order has been switched.
+- A few units with unnecessary light skin color are now normal.
+- Increased *Stereo* cost.
+- Increased *Guardian* cost.
+- Increased *Foul Soul* cost.
+- Scrapped unit: *Forest Archer*. 
+- Revamped some units's clothing.
+- Renamed *Dubcore Artillery, Droid* to *Dubghost, Riot Droid*.
+- Updated some mod page details (*Unit descriptions, Capability, etc*).
+- Optimized unused codes, class, and all technical stuff.
+
+#### (1.2.7)
+
+**New Units, Features, Abilities, and Additions!**
+
+- New Faction: **Retropolis**.
+- New Units: *Surfer, Rafflesia, Leonin, Harekin, Pyro, Coedsworn, Stereo, Blockbuster, Noir*.
+- New Abilities for some units.
+- New *Icons* for the new units and new factions.
+
+**Updates, Changes, Balances, and Fixes!**
+
+- Optimizes *Totem*'s behavior and existence, and makes it crumbles on death.
+- *Thronekeeper*'s **Statue Mimicry** ability is fixed and optimized again (pain).
+- Added a new ability for *Bloodwalker*: **Bloodlord Tribute**, Passive ability where he could links blood to his target in close range. If his health is lower than his target, he'll steal their health. Upon dead, target would get anchored to him for **6** seconds, gradually getting its health drained.
+- Nerfed *Headhunter*'s stats being too janky.
+- Improved *Headhunter*'s **Hunter Mark** ability to actually be functional.
+- *Headhunter*'s **Shadow Disintegration** effect is more optimized and have reduced quantity.
+- *Headhunter*'s **Absolute Eclipse** mode are now more dangerous, has more customized VFX, and improved.
+- Added new ability for *Headhunter*: **Draconic Roar**, unlocked on his second phase, he could now burst powerful huge gust of force towards enemies.
+- *Vulcan Imperator*'s **Vulcanic Eruption** explosion now has 3 phases instead of instant burst (damage and size radius are also affected for each phase).
+- *Vulcan Imperator*'s **Vulcanic Teleport** ability is removed.
+- *Geomancer* **Ground Shield** will now gone if he dies.
+- Optimized and improved *Headless Horseman*'s **Horde Charge** ability.
+- Reworked *Dead Mourner* to behave as cocoon of health instead, constantly healing target teammates by transfering health to them in exchange of his own health, and links his soul to target teammates, which upon his death, he will heal the target **50%** of their lost HP.
+- *Chompion*'s chomp animation and sounds will now stop on death.
+- *Wretched Emissary*'s **Pained Scream** is now combat move items and have ranged condition too instead of just timer condition.
+- *Wretched Emissary*'s mutated bodies will now have eyes.
+- *Soulforge Swordcaster* will now stop walking when the range of its ability is met.
+- *Ancestral Conquerer*'s explosion trail knockback is reduced a bit.
+- *Ancestral Conquerer*'s **Elder Aura** fog is modified to be less static.
+- Fixed *Myconid*'s being invincible for some unknown reason.
+- Optimized *Myconid*'s behaviour, converted units will die after **10** seconds and will explode **Shroom Splode** instead of transforming more nearby units on death.
+- Fixed *Sacrificer*'s melee and range being unoptimized.
+- Fixed *Sacrificer*'s **Blood Drop** effect being too much longer.
+- Optimized *Succubus* effect activation and inner working not working as intended.
+- *Glacier Giant*'s **Ice Age** explosion particles now won't cover up the battlefield too much.
+- Reduced *Wendigo* health to **120** from **100**.
+- Slightly buffed *Wendigo*'s **Foggy Chase** to constantly heals him on its state, and when reappear all of his weapon's cooldown is reseted, also turning it into an ability instead of hard-coded to the unit base.
+- Fixed *Earl*'s flail range is too big.
+- Fixed *Assassin*'s projectile still causing target hit health's to turns into **NaN**.
+- Nerfed and reworked *Helldraw*'s **Hellbody** passive (Now it heals based on **70%** of projectile damage, reducing damage gained to **30%** of projectile damage and passive only activates after below **60%** of Max HP). 
+- Removed *Helldraw*'s unit base, turning her custom eye as clothing item and **Hellbody** passive as combat movement.
+- Fixed *Totem* Range indication VFX lasts longer than its actual times.
+- Fixed *Unnamed Peasant*'s **True Death** explosion not visible
+- *Prayeth*'s self team damage is reduced by **60%** and damages are now slightly randomized near its original damage, also no longer damages team if their health is below **5** HP Point, but also increasing weapon cooldown from half a second to **1.5** seconds.
+- *Rogue*'s unit base is now removed while his **Betrayal** ability become a combat move instead of hard-coded to his unit base.
+- Several modification and rework to *Rogue*'s **Betrayal**, making his condition instead of if health under below **30** HP Point to under **30%** max health condition detection, aswell making unit that transform to die after **20** seconds.
+- *Gravedigger* and his minions stats have been nerfed.
+- Turns *Bloodwalker* self regeneration as abilities, custom eyes as clothing items and also removes his unit base.
+- *Dark Huntsman*'s motorcycle now explode when it dies.
+- Optimizing *Rogue* aswell changing his cost, buffing him to the cost change.
+- *Time Queen*'s death no longer spawn ice storm.
+- Revamped *Time Queen*'s **Time Dance**.
+- Reduced *Undertaker* coffin collision size causing headache.
+- *Undertaker*'s weapon trail has been reduced.
+- Nerfed *Headless Horseman*'s Horse Shield damage from **200** to **150**.
+- Nerfs to *Bloodwalker*'s health.
+- *Behemoth*'s cost is increased to **3500**
+- *Evicted Gallant*'s rust effect now has VFX indication.
+- *Evicted Gallant*'s cost is increased to **5000**, buffing his weapon range a bit.
+- *Headless Horseman*'s rider and horse health is nerfed.
+- *Brewer*'s health is nerfed to **150** from **800**, but her cost is now **4000**
+- Nerfed **TankHitBuff** passive ability's buff impact deals too much.
+- Guardian metalic shield is fixed and more optimized.
+- Buffed *Preacher* by nerfing self team damage to only **2** HP instead of **5** HP, and will stops damaging team if their health is below **5** HP.
+- Reduced *Golem* attack speed a bit.
+- Turned *Golem*'s eye to not blink and unit base become statue when dies.
+- *Conjurer* and *Swordmage* now have slightly reduced range.
+- *Druid*'s attack speed and damage output is reduced.
+- *Forstenad*'s spear damage has been nerfed aand his hover is modified a bit.
+- Reduced "Vulcan Imperator" attack speed to **3** seconds.
+- General nerf to *Midas*'s health and stats.
+- *Assassin* will now keep running so he uses melee more.
+- Reduced *Forest Archer* health to **120** from **200**.
+- Increased *Myconid* cost to **400**.
+- Increased *Raider* cost to **140**.
+- Changed Clusterbomb projectile from *Submarine* diverge after 3 seconds.
+- *Hermit*'s walking is somewhat fixed to not be too wonky by optimizing his barrel moveset.
+- Fixed *Hermit*'s projectile has metal material instead of wood material.
+- Nerfed *Titanoboa*'s health from **200** to **155**.
+- *Airhound*'s cost is increased to **1200**.
+- Improved *Headhunter*'s **Heaven or Hell** ability's visual and increased **Hell** condition to be **30%** instead of **20%**.
+- Changed *Submarine* to not move in circle and only looks at enemies instead.
+- Fixed *F22*'s Missile not appearing properly.
+- Revamped *Snakeeye, Hermit, Puppeteer, Rogue, Gravedigger, Prayeth, Sacrificer, Undertaker, Vulcan Imperator and Assassin*'s clothing.
+- Renamed some Abilities name again to make more sense.
+- Fixed and optimized redundant functions, classes, and codes.
+
 #### (1.2.6)
 
 - Very quick fix to Headhunter ability, you saw nothing ok?
