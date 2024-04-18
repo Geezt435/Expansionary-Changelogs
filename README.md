@@ -1,5 +1,62 @@
 ## Changelogs 🎁 
 
+#### (1.2.9)
+
+**REVAMP UPDATE**
+
+**New Items, Additions, Optimization, Changes, Balances, and Fixes!**
+
+- New **UC Content** items.
+- Revamped and improved almost all units.
+- New abilities for some units.
+- Optimized *Maximus* visuals and stats, also improving them.
+- Optimized and Improved *Dark Huntsman*'s visual and damage stats.
+- Optimized *Helldraw*'s weapon damage, also balanced by reducing her dodge cooldown speed, also revamped visual.
+- Improved *Rumbler*'s attacks and visuals.
+- Optimized *Bounty Hunter*'s sniping, also increased accuracy.
+- Revamped *Guardian* and optimized his passive to be addition instead of multiplication.
+- Optimized *Spelungker*'s explosion and weapon, also fixing his weapon damage being too big (it's still a heavy hitter so don't worry).
+- Improved *Greathammer*'s visual and added an effect on weapon direct hit.
+- Moved *Maximus*'s crazy eye to *Mage*.
+- Improved *Mongolian* attacks and effects.
+- Improved *Noir* and *Stereo*'s weaponry, while also optimizing their visuals.
+- Optimized *Glacier Giant*'s visual and gameplay, while also decreasing his obscurity.
+- Combined *Glacier Giant*'s **Ice Age** ability and explosion into 1 item for optimization. (any dev wanna explain why it lags when it's separated? HRMMMM?)
+- Removed *Glacier Giant*'s **Winter Tornado** for the unit, but still kept it as an item.
+- Improved *Time Queen*'s visual design, and added 1 new ability.
+- Improved *Forstenad*'s visual design, while also adding a new ability for his shield.
+- Improved visual for *Earl*'s **Intimidation** effect.
+- Improved *Umbrellina*'s design and movement.
+- Improved the cryptid unit *Wendigo* and **Foggy Chase** is now controllable, though it won't heal *Wendigo* on possession.
+- Revamped the design and effects of *Ancestral Conquerer*.
+- Combined *Ancestral Conquerer*'s **Energy Overdrive** and **Condensed Energy** into one movement called **Primal Demise**.
+- Revamped *Soulforged Swordcaster* to *Soulforged Sovereign*.
+- Added a few particles for *Midas* and improved his attack.
+- Revamped *Swordmage* to *Sword Pontiff*.
+- Improved *Assassin*'s particles.
+- Some changes to *Throne Keeper*. 
+- Optimized *Goblins*.
+- Revamped *Bug Fanatic* into *Verdant Fanatic*.
+- Revamped *Druid*'s acidic effect to be more... acidic.
+- Improved *Druid*'s attack and abilities, alongside visuals.
+- Increased *Conjurer*'s cost.
+- Improved *Golem,* and *Conjurer*'s visuals and designs.
+- Redesigned some props and improved ability for *Harekin*.
+- Improved *Vulcan Imperator*'s abilities, design, and overall.
+- Revamped *Rafflesia*'s breathability and a slight tweak to the weapon (alongside increasing its cost).
+- Revamped *Succubus* **ChantHeartFist** weapon. 
+- Fixed *Wayang*'s **Twilight Sunlight** damage not working, also added audio and visual queue for a hit. Also revamping its cost.
+- *Fisherman* now leans a bit forward before jumping back.
+- Revamped *Titanoboa*'s visual and gameplay.
+- Optimized *Surfer* throws and positioning in a faction.
+- Optimized *Hermit* barrel hide and revamped stick throws.
+- Turned debug as an option in settings since debug could lag the game.
+- Some unit bases are now available on a unit editor.
+- Changed so all **Expansionary** items have their own categories.
+- Redesigned most of the unit's visuals.
+- Revamped a few icons.
+- Rewritten and fixed a lot of unmatching units' lore and capabilities.
+
 #### (1.2.8)
 
 **MAJOR REVAMP AND UPDATE**
