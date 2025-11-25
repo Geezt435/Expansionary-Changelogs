@@ -1,14 +1,4 @@
 ## Changelogs 🎁 
-
-#### (1.2.10)
-
-# HALF OF THE FINAL UPDATE
-
-- Revamped half of the factions in the mod: (**Tropical, Great Forest, Primeval Kingdom, Clash Siege, Far North, Forgotten Communion, Dark Age**).
-- New Website for more information on [Expansionary](https://expansionary.pages.dev/)
-- Added **ID** Checking for each item addition that needs unique ID, making them compatible with other mod.
-- Fixed harmony patching affecting other mod.
-- Removed **Expansionary** unit base entering the unit creator due to it causing several compatibility issue. It is still toggle-able for anyone who wants but I don't recommend it.
  
 #### (1.2.9)
 
